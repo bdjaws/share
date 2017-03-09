@@ -6,4 +6,5 @@
 
 高田雅人
 NTTドコモ　サービスイノベーション部
-[発表内容](http://jawsdays2017.jaws-ug.jp/session/1525/)
+
+[発表詳細](http://jawsdays2017.jaws-ug.jp/session/1525/)
